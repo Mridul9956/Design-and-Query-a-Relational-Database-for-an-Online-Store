@@ -1,7 +1,7 @@
-Online Store for Relational Database Management System
+# Online Store for Relational Database Management System
 Normalized MySQL database designed for an online retail store — developed as a college project to demonstrate database design, relational integrity, and SQL query proficiency.
 
-Overview
+### Overview
 This project models the essential operations of an online retail system, including:
 
 Customer records
@@ -12,7 +12,7 @@ The database is normalized up to Third Normal Form (3NF) and ensures referential
 
 Developed as part of [Database Management Systems] at [SRM IST DELHI NCR] in [2024].
 
-ER Diagram
+### ER Diagram
 
 
 
@@ -41,32 +41,33 @@ Example Outputs
 
 <img width="174" height="142" alt="Image" src="https://github.com/user-attachments/assets/a9dd1b3f-0940-48f2-81e2-d74d6831ebcc" />
 
-Project Details
+## Project Details
 Designed and implemented a normalized MySQL database (3NF) for an online retail shopping system, covering customers, products, wishlists, carts, payments, and shipping details.
 Created an ER diagram and converted it into a fully functional relational schema with primary keys, foreign keys, and composite keys.
 Inserted sample placeholder data to simulate real-world scenarios for testing and demonstration.
 Developed SQL queries including INNER, LEFT, and RIGHT JOINs for business analysis (wishlist trends, product listings, payment tracking).
 Documented the design and workflow in a detailed project report and provided screenshots of outputs for clear understanding.
 Proposed future enhancements such as order tracking, stock update triggers, stored procedures, and query optimization with indexing.
-How to Run
-Using MySQL Workbench
+
+## How to Run
+###Using MySQL Workbench
 
 Open schema.sql → Execute (creates database & tables)
 Open data.sql → Execute (inserts sample data)
 Open queries.sql → Execute (runs example queries)
-Using MySQL CLI
+### Using MySQL CLI
 
-# Create DB & tables
+#### Create DB & tables
 mysql -u <username> -p < schema.sql
 
-# Insert data
+#### Insert data
 mysql -u <username> -p onlineretail < data.sql
 
-# Run queries
+#### Run queries
 mysql -u <username> -p onlineretail < queries.sql
 Replace with your MySQL username (e.g., root).
 
-Project Structure
+## Project Structure
 Online-Retail-Database/
 ├── schema.sql # Database creation (DDL)
 ├── data.sql # Sample data insertion (DML)
