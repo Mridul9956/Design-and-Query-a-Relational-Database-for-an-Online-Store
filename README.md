@@ -1,5 +1,5 @@
-# Design-and-Query-a-Relational-Database-for-an-Online-Store
-This is for Online Store
+Online Store for Relational Database Management System
+Normalized MySQL database designed for an online retail store — developed as a college project to demonstrate database design, relational integrity, and SQL query proficiency.
 
 Overview
 This project models the essential operations of an online retail system, including:
@@ -13,18 +13,19 @@ The database is normalized up to Third Normal Form (3NF) and ensures referential
 Developed as part of [Database Management Systems] at [SRM IST DELHI NCR] in [2024].
 
 ER Diagram
-ER Diagram
+https://github.com/raghavkapoor31/Online-Retail-Database-System/raw/main/screenshots/er_diagram.jpg
+
 
 Example Outputs
 1️ Customer Table Output
-<img width="312" height="127" alt="customer" src="https://github.com/user-attachments/assets/5c0e48a8-8954-49df-b26c-93783fdd18e1" />
+https://github.com/raghavkapoor31/Online-Retail-Database-System/raw/main/screenshots/customer.png
 
 
 2️ Products with Categories
-Products Output
+https://github.com/raghavkapoor31/Online-Retail-Database-System/raw/main/screenshots/products.png
 
 3️ Wishlist Join Result
-Wishlist Output
+https://github.com/raghavkapoor31/Online-Retail-Database-System/raw/main/screenshots/wishlist.png
 
 Project Details
 Designed and implemented a normalized MySQL database (3NF) for an online retail shopping system, covering customers, products, wishlists, carts, payments, and shipping details.
