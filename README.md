@@ -13,19 +13,33 @@ The database is normalized up to Third Normal Form (3NF) and ensures referential
 Developed as part of [Database Management Systems] at [SRM IST DELHI NCR] in [2024].
 
 ER Diagram
-https://github.com/raghavkapoor31/Online-Retail-Database-System/raw/main/screenshots/er_diagram.jpg
+
+
+
+![Image](https://github.com/user-attachments/assets/f0d3852e-e8a2-4421-90cc-d773bbc61e9c)
 
 
 Example Outputs
 1️ Customer Table Output
-https://github.com/raghavkapoor31/Online-Retail-Database-System/raw/main/screenshots/customer.png
+
+
+
+
+<img width="312" height="127" alt="Image" src="https://github.com/user-attachments/assets/73cb3253-75f6-4b6a-b846-9ea712f78638" />
 
 
 2️ Products with Categories
-https://github.com/raghavkapoor31/Online-Retail-Database-System/raw/main/screenshots/products.png
+
+
+
+<img width="321" height="211" alt="Image" src="https://github.com/user-attachments/assets/e647ead0-050a-4902-aec9-d5551457bfca" />
 
 3️ Wishlist Join Result
-https://github.com/raghavkapoor31/Online-Retail-Database-System/raw/main/screenshots/wishlist.png
+
+
+
+
+<img width="174" height="142" alt="Image" src="https://github.com/user-attachments/assets/a9dd1b3f-0940-48f2-81e2-d74d6831ebcc" />
 
 Project Details
 Designed and implemented a normalized MySQL database (3NF) for an online retail shopping system, covering customers, products, wishlists, carts, payments, and shipping details.
