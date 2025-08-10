@@ -17,6 +17,7 @@ ER Diagram
 
 Example Outputs
 1️ Customer Table Output
+<img width="312" height="127" alt="customer" src="https://github.com/user-attachments/assets/5c0e48a8-8954-49df-b26c-93783fdd18e1" />
 
 
 2️ Products with Categories
